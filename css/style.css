@@ -4,25 +4,33 @@ body {
   background-color: black;
 }
 
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+h2 {
+  font-family: white;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
 /* Header */
 
 header {
   text-align: center;
 }
 
-header p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 50px;
-  color: white;
-}
-
-header a {
+/* Main */
+.downloadLink {
   color: aquamarine;
   font-size: 16px;
 }
 
-/* Main */
-
-#cellphoneIcon {
+/* Footer */
+footer {
   text-align: center;
 }
