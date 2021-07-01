@@ -18,6 +18,12 @@ h2 {
   color: white;
 }
 
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
 /* Header */
 
 header {
