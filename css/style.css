@@ -40,3 +40,7 @@ header {
 footer {
   text-align: center;
 }
+
+#copyright {
+  text-align: right;
+}
