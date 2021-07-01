@@ -24,6 +24,11 @@ p {
   color: gray;
 }
 
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
 /* Header */
 
 header {
@@ -31,9 +36,12 @@ header {
 }
 
 /* Main */
-.downloadLink {
-  color: aquamarine;
-  font-size: 16px;
+main {
+  text-align: center;
+}
+
+#video {
+  text-align: center;
 }
 
 /* Footer */
